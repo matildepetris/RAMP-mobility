@@ -26,7 +26,7 @@ under the License.
 
 import sys,os
 sys.path.append('../')
-#import ramp_mobility
+import ramp_mobility
 
 from core_model.stochastic_process_mobility import Stochastic_Process_Mobility
 from core_model.charging_process import Charging_Process
