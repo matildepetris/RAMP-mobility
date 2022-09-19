@@ -49,6 +49,7 @@ and naming further input files with corresponding country code
 charging = False         # True or False to select to activate the calculation of the charging profiles
 write_variables = True  # Choose to write variables to csv
 full_year = False       # Choose if simulating the whole year (True) or not (False), if False, the console will ask how many days should be simulated.
+mobility_report = True  # Choose if generating mobility statistics as output
 
 countries = ['AT']
 
